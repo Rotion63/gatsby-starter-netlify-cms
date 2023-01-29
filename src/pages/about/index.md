@@ -1,19 +1,12 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About Author
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Welcome to Tiny Knowledge! My name is Madhav Prasad Guragain and I am a Civil Engineer from Kathmandu University. I have a passion for building and construction and have gained a wealth of experience in the field through my studies and work experience.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+In addition to my professional career as a civil engineer, I am also a content creator. I love to share my knowledge and experiences through writing and creating videos. On this website, you will find a variety of content related to civil engineering, as well as personal stories and reflections.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+I believe in the power of education and the importance of sharing information and resources. My goal with this website is to provide valuable information and inspiration to others in the field of civil engineering, as well as to anyone interested in learning more about the subject.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Thank you for visiting my website, and I hope you find the information and resources here to be helpful and informative.
