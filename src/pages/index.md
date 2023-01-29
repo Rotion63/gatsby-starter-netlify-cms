@@ -32,11 +32,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/chuanyang-chen-wya-h3xlq0w-unsplash-2-.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Man with laptop
+    image: /img/chuanyang-chen-wya-h3xlq0w-unsplash-2-.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Tiny Knowledge
+    image: /img/chuanyang-chen-wya-h3xlq0w-unsplash-2-.jpg
 ---
