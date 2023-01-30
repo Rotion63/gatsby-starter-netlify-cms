@@ -3,14 +3,18 @@ templateKey: index-page
 title: Explore world with Tiny Knowledge
 image: /img/chuanyang-chen-wya-h3xlq0w-unsplash-2-.jpg
 heading: Autocad
-subheading: Support sustainable farming while enjoying a cup
+subheading: We share ideas about autocad, excel and many other softwares
 mainpitch:
-  title: Why Kaldi
+  title: Why Tiny Knowledge?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We, at Tiny Knowledge, specialize in providing concise and easily
+    understandable explanations of complex subjects. Our aim is to make
+    difficult concepts accessible to a wide range of individuals through our use
+    of simple language and clear explanations. We offer services such as
+    educational content creation, consulting, or training. Our goal is to make
+    knowledge more accessible to people who may not have a background in a
+    particular field, helping them to understand and learn new concepts quickly
+    and efficiently.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
